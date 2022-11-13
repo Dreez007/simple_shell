@@ -1,4 +1,4 @@
-Simple shell project from Alx software engineering programme
+Simple shell project for Alx software engineering program.
 CONTRIBUTORS
-Ghanni Idris
+Idris Ghanni
 Nkemakonam Onwuasoigwe
